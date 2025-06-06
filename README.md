@@ -94,4 +94,3 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 - React Team por el framework
 - TypeScript Team por el sistema de tipos
-- Todos los contribuidores que han ayudado al proyecto
